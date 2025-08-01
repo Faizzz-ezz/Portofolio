@@ -116,6 +116,11 @@ const techStacks = [
   { icon: "MUI.svg", language: "Material UI" },
   { icon: "vercel.svg", language: "Vercel" },
   { icon: "SweetAlert.svg", language: "SweetAlert2" },
+  { icon: "php.png", language: "PHP" },
+  { icon: "MySQL.png", language: "MySQL" },
+  { icon: "figma.png", language: "Figma" },
+  { icon: "corel.png", language: "CorelDraw" },
+  { icon: "canva.png", language: "Canva" },
 ];
 
 export default function FullWidthTabs() {
