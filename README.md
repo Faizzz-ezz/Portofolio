@@ -240,8 +240,8 @@ If you have any questions or need help with the setup, feel free to reach out\!
 
 **Faizzz**
 
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
+  - Website: [https://www.faiz.my.id/](https://www.faiz.my.id/)
+  - GitHub: [Faizzz](https://github.com/Faizzz-ezz)
 
 -----
 
