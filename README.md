@@ -2,11 +2,11 @@
 
 Hello everyone\! 👋
 
-Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like to share the portfolio website project that I've developed.
+Let me introduce myself, I'm **Faizzz**. On this occasion, I'd like to share the portfolio website project that I've developed.
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://www.eki.my.id/](https://www.eki.my.id/)
+**Website Link:** [https://www.faiz.my.id/](https://www.faiz.my.id/)
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
+git clone https://github.com/Faizzz/Portofolio_V5.git
 cd Portofolio_V5
 ```
 
@@ -177,7 +177,7 @@ VALUES ('REPLACE_WITH_YOUR_CERTIFICATE_IMAGE_URL.png');
 
 -- Insert one example comment
 INSERT INTO public.portfolio_comments (content, user_name) 
-VALUES ('Created By Eki Zulfar Rachman', 'ekizr');
+VALUES ('Created By Faizzz', 'faiz');
 
 ```
 
@@ -238,7 +238,7 @@ We would appreciate it if you decide to use this project. Please include proper 
 
 If you have any questions or need help with the setup, feel free to reach out\!
 
-**Eki Zulfar Rachman**
+**Faizzz**
 
   - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
   - GitHub: [EkiZR](https://github.com/EkiZR)
